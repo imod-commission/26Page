@@ -1,0 +1,9 @@
+Package: com.imodcommission.26page
+Name: 26Page
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Makes page scrolling same as iOS 26
+Maintainer: imod_commission
+Author: imod_commission
+Section: Tweaks
+Depends: mobilesubstrate
